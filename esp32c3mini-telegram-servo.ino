@@ -4,8 +4,8 @@
 #include <ArduinoJson.h>
 #include <ESP32Servo.h>
 
-const char* ssid     = "hola";
-const char* password = "88888888";
+const char* ssid     = "WIFI";
+const char* password = "PS";
 #define TOKEN   "TOKEN
 #define CHAT_ID "ID"
 
