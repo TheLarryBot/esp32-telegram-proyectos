@@ -6,8 +6,8 @@
 
 const char* ssid     = "hola";
 const char* password = "88888888";
-#define TOKEN   "8203910516:AAEqMl2IhO12NvBbcrdpq-vK0i3682uaoWk"
-#define CHAT_ID "1249279984"
+#define TOKEN   "TOKEN
+#define CHAT_ID "ID"
 
 #define PIN_SERVO 5
 
