@@ -3,10 +3,10 @@
 #include <UniversalTelegramBot.h>
 #include <ArduinoJson.h>
 
-const char* ssid     = "hola";
-const char* password = "88888888";
-#define TOKEN   "8203910516:AAEqMl2IhO12NvBbcrdpq-vK0i3682uaoWk"
-#define CHAT_ID "1249279984"
+const char* ssid     = "WIFI";
+const char* password = "PS";
+#define TOKEN   "TOKEN"
+#define CHAT_ID "IDE"
 
 #define TOUCH1  4
 #define TOUCH2  5
